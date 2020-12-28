@@ -1,2 +1,4 @@
 # hello-world
-Tutorial 1
+This is a sample.
+
+This is just a test.
